@@ -1,0 +1,5 @@
+# Install this project and its dependencies from pyproject.toml.
+-e .
+
+# Run the graphs locally with LangGraph Studio.
+langgraph-cli[inmem]
